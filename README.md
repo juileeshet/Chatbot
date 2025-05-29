@@ -13,12 +13,17 @@ In short, this project is my way of exploring how computers can “talk” to us
 Features
 
 Responds to greetings like "hi", "hello", etc.
+
 Responds to farewells like "bye", "see you", etc.
+
 Answers simple questions like "how are you?" or "what is your name?"
+
 Provides help information
+
 Responds with a default message for unknown inputs
 
 Technologies
 
 Python 3
+
 pytest for unit testing
